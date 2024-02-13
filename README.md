@@ -1,4 +1,4 @@
-# Irishman Texting's Javascript SDK
+# ![Irishman Texting's Javascript SDK](https://raw.githubusercontent.com/irishman-cloud/sms-mms-javascript/master/.github/banner.svg)
 
 Cheaply send SMS and MMS messages.
 
