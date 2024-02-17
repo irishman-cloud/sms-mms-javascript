@@ -1,6 +1,9 @@
 # ![Irishman Texting's JavaScript SDK](https://raw.githubusercontent.com/irishman-cloud/sms-mms-javascript/master/.github/banner.svg)
 
-Cheaply send SMS and MMS messages.
+[![MIT License](https://img.shields.io/github/license/irishman-cloud/sms-mms-javascript)](https://github.com/irishman-cloud/sms-mms-javascript)
+[![Issue Count](https://img.shields.io/gitea/issues/open/irishman-cloud/sms-mms-javascript)](https://github.com/irishman-cloud/sms-mms-javascript/issues)
+
+<b align="center">Cheaply send SMS and MMS messages.</b>
 
 ## Table of Contents
 
